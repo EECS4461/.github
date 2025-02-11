@@ -8,9 +8,6 @@
 
 ## 🔍 About the Project
 
-This repository contains the code, documentation, and simulation models for our **EECS 4461: Hypermedia and Multimedia Technology** team project.
-
-Our focus is on simulating the **arms race between social media bots and content moderation systems** on **Xiaohongshu (RedNote)**—a popular Chinese social platform blending social networking with e-commerce.
 
 ### ⚡ **Phenomenon of Interest**
 
